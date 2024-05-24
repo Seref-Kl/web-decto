@@ -1,0 +1,6 @@
+stepdefinitions\HomeSteps.class
+stepdefinitions\ProductDetailSteps.class
+stepdefinitions\WomanHomeSteps.class
+runner\TestRunner.class
+stepdefinitions\CartSteps.class
+stepdefinitions\WomanTshirtSteps.class
